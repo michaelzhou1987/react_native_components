@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/michaelzhou/Projects/GithubRepo/react_native_components/ios/build/react_native_components/Build/Intermediates.noindex/react_native_components.build/Debug-iphonesimulator/react_native_components.build/DerivedSources/react_native_components_vers.c
